@@ -13,7 +13,7 @@ public class MainMenu extends Account {
 		int x = 1;
 		do {
 			try {
-				data.put(123456, 1111);
+				data.put(123445, 1111);
 				data.put(234567, 2222);
 				data.put(345678, 3333);
 				data.put(456789, 4444);
